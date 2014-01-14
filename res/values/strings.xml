@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Domotica</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Sin Configurar IP de Servidor</string>
+    <string name="title_category">Url de Servidor</string>
+    <string name="pre_url">Ingrese url del Servidor</string>
+    <string name="pre_summary">Ingrese una dirección del servidor de la aplicación</string>
+    <string name="pre_url_dialog">Dirección del servidor</string>
+    <string name="conf_title">Configuración</string>
+    <string name="btn_on">Encender</string>
+    <string name="btn_off">Apagar</string>
+</resources>
